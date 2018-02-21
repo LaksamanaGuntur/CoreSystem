@@ -43,7 +43,7 @@ public class ListAdapter extends RecyclerView.Adapter<ListAdapter.ViewHolder> {
         ResultData resultData = mResultData.get(position);
 
         Picasso.with(mContext)
-                .load(Constant.URL_IMAGE+ resultData.getPosterPath())
+                .load(Constant.URL_IMAGE + resultData.getPosterPath())
                 .into(holder.mImageView);
     }
 
