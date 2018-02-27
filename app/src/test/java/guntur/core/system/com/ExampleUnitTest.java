@@ -14,11 +14,10 @@ import guntur.core.system.com.data.ResultData;
 import guntur.core.system.com.model.DataModel;
 import guntur.core.system.com.network.ApiResponse;
 import guntur.core.system.com.repository.MainRepository;
-import guntur.core.system.com.ui.MainContract;
-import guntur.core.system.com.ui.MainPresenter;
+import guntur.core.system.com.ui.page.MainContract;
+import guntur.core.system.com.ui.page.MainPresenter;
 import io.reactivex.Flowable;
 
-import static org.junit.Assert.*;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 

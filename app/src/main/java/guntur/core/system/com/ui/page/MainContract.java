@@ -1,4 +1,4 @@
-package guntur.core.system.com.ui;
+package guntur.core.system.com.ui.page;
 
 import java.util.List;
 

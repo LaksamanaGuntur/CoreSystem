@@ -13,6 +13,8 @@ import guntur.core.system.com.helper.Constant;
 import guntur.core.system.com.model.DataModel;
 import guntur.core.system.com.network.NetworkService;
 import guntur.core.system.com.repository.MainRepository;
+import guntur.core.system.com.ui.page.MainActivity;
+import guntur.core.system.com.ui.page.MainPresenter;
 
 /**
  * Created by Laksamana Guntur Dzulfikar on 19/2/18.

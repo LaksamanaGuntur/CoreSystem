@@ -1,4 +1,4 @@
-package guntur.core.system.com.ui;
+package guntur.core.system.com.ui.page;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -17,6 +17,7 @@ import guntur.core.system.com.CoreApp;
 import guntur.core.system.com.R;
 import guntur.core.system.com.adapter.ListAdapter;
 import guntur.core.system.com.data.ResultData;
+import guntur.core.system.com.ui.MainActivityModule;
 
 public class MainActivity extends AppCompatActivity implements MainContract.View{
     @Inject

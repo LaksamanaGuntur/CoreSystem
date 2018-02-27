@@ -1,4 +1,4 @@
-package guntur.core.system.com.ui;
+package guntur.core.system.com.ui.page;
 
 import guntur.core.system.com.data.ResultData;
 import guntur.core.system.com.model.DataModel;
